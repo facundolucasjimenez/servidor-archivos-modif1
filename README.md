@@ -2,7 +2,7 @@
 
 ejercicio de servidor de archivos, se agregó una funcionalidad para eliminar un registro (una línea) de un archivo de texto
 
-ejecutar servidor en linux, pasar IP del servidor como argumento
+ejecutar servidor en linux, pasar IP del servidor como argumento. Cliente en windows
 
 la IP está hardcodeada en el cliente
 
